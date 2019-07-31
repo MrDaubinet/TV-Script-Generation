@@ -11,7 +11,7 @@ Before training the model, the dataset must be prepared by removing tokens and i
 
 The Goal of the project is to train a Recurrent Neural Network on the scripts and use the trained model to generate new scripts. 
 
-![](images/results.png)
+![](images/Results.png)
 
 This Model achieved a training loss of 3.43, with the following hyperparameters:
 * <b>sequence_length</b>: This value was tested at 200, then 100, then 50, then 25, then 10. 
