@@ -24,7 +24,7 @@ This Model achieved a training loss of 3.43, with the following hyperparameters:
 
 ### Conclusion
 This project introduced me to many aspects of Recurrent Neural Networks. By covering the foundations of recurrent, LSTM and GRU layers, a firm understanding of the architecture was gained. Furthing this, the project touched on word embedding layers and their usefulness was soon realised.
-<br>
+<br><br>
 To view the full project [click here](https://nbviewer.jupyter.org/github/MrDaubinet/TV-Script-Generation/blob/master/dlnd_tv_script_generation.ipynb)
 
 
